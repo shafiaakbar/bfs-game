@@ -1,13 +1,9 @@
-# BFS-GAME
-<p align="center">
+🧠 What’s This?
+A visual playground where Breadth-First Search (BFS) comes alive. Watch an AI agent navigate a maze.
 
-<p align="center">
-<img src="https://i.imgur.com/zpuw4bf.png"/>
- </p>
-</p>
+🎮 Core Features
+🟦 BFS Agent
+The little black square is your pathfinding prodigy. It explores the maze using the Breadth-First Search algorithm to find the shortest path from start to goal. It's not fast—but it’s guaranteed to be right.
 
-## Features
-* **The A.I**: The little square at the start black end is the 'fittest' from the entire generation. To see the generation itself, press SPACE on your keyboard to do so. 
-* **Evolution Cycle Controls**: You are able to change the population size (more/less chance for a better fit), mutation rate (how much the A.I. deviates from the norm), and evolution speed (just make the process faster; set to 6 if you do not want to wait forever). You are also able to increase a certain number of moves by a certain number of generations (the recommended amount is 5 moves per 5 generations).
-* **Play it Yourself**: Press P to play the game yourself. For a human equipped with a mind adapted from years of evolution, this should be easy to you. But once the A.I. beats the game, you'll find that you're more prone to mistakes than it is. 
-* **Evolution Highlights**: Press G to replay evolution highlights.
+👾 Manual Play Mode
+Press P to switch from AI to you—yes, you with your “superior” brain. See if you can beat the AI’s path. Spoiler: humans panic under pressure.
